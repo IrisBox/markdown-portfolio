@@ -1,1 +1,4 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+### Hi! I'm Andy
+![Photo of Andy Corrigan](https://irisbox.github.com/images/Andy-01.jpg)
+#### This is my IrisBox avatar
+![IrisBox Avatar](https://irisbox.github.com/images/IrisBox_SQ.jpg)
