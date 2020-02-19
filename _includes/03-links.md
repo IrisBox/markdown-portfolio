@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+[My IrisBox GitHub](https://github.com/IrisBox)
+[My Website](http://www.irisbox.co.uk/)
+[My Twitter](https://twitter.com/IrisboxPix) 
